@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">tabview</string>
+    <string name="first_tap_name">First</string>
+    <string name="second_tap_name">Second</string>
+    <string name="third_tap_name">Third</string>
+    <string name="first_name">First Fragment</string>
+    <string name="second_name">Second Fragment</string>
+    <string name="third_name">Third Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
+
+
